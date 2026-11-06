@@ -32,7 +32,7 @@ solar_analysis/
 
 └── requirements.txt           # Project dependencies
 
-## Instalação e Uso
+## Installation and Use
 
 1. Clone the repository:
    ```
